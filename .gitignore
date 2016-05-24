@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<head>
+  <link href="/normalize.css" rel="stylesheet">
+  <style>
+    header {
+      text-align: center;
+      background: url('https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/11071517_10101800926380955_3920069404177964473_n.jpg?oh=e9eca8d122f12ba86f6caa7d65b5da5c&oe=57E32FBF');
+      background-size: cover;
+      color: white;
+    }
+    a {
+      color: white;
+    }
+    h1 {
+      font-size: 70px;
+    }
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+    ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+    }
+    @media (max-width: 500px) {
+      h1 {
+        font-size: 36px;
+        padding: 5px;
+      }
+      li {
+        padding: 5px;
+        display: block;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <IMG HEIGHT="80" WIDTH="80"src="https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/10982471_10101768377070035_8153955770576445573_n.jpg?oh=b01dabc0e8e10aa65a850629b9da07a3&oe=57E42D88">
+    <h1>Jeff's Blog</h1>
+    <ul>
+      <li><a href="#">Race Calendar</a></li>
+      <li><a href="#">Race Photos</a></li>
+      <li><a href="#">Bad Advice</a></li>
+    </ul>
+  </header>
+  <article>
+    <h2>Running Poetry</h2>
+    <p>~Plank, a simulation of battling death~
+Anticipation from all fours, erect posture, now body calms, deceptive silence, tremors  secretly await, confidence abundant.
+A chink in the armor realized as a bead of sweat rolls and tickles the elbow.
+Flatten back, gently arch spine, eyes wonder towards watch, hold out, not yet, it's too early.
+Heat, focus quiets shakes, form correction, fingers spread, rock on toes, bluffing endurance, cool the core, re-position sparingly.
+Stick with the strategy, to cease is to decease, hold on hold out ....  
+
+~run in San Mateo at night~
+Scared and stiff, putting across well lit streets, narrow sidewalks draw attention and overgrown hedges drape into the already scarce hall between parallel parked cars reducing the tunnel, demanding careful bounding to pass. A Dark area spells danger but is only a peaceful stream engulfed by greenery below. Pace increases as to not get caught in the middle by a speeding car and a natural gate is adopted. Arms gently pump, the head grows taller and the breaths are now rhythmic and powerful. A turn is made by leaning into the inside and old memories of lanes are reenacted step for step, excitement grows and surges become natural with the rolls. Ducking under low branches provides opportunity to increase forward posture this encouraging speeding. The slight downhill tempts the cadence irresistible sprinting muscles are hot, flexion is rapid and perfect, the destination came too soon.
+
+~my adaptation of Anna Mae's run~
+Leaves rustle in the wind from all directions, carrying smells of fresh earth, silence abandoned for a thundering heartbeat;clogs    to claps to taps to strikes muscles awaken. Breath or smoke, it's unclear. Weak knees, a sputtering engine transform into powerful pistons pain no longer exists as a hindrance embraced with challenge. Toes grip, gentle ups and downs define the trail. For the moments my cadence and heart are indistinguishable, HERE I AM PRESENT.
+
+~Nodding off~
+A heavy warmth fogs the sinuses, thoughts slow while attention drifts, eyelids are the most powerful of bear traps closing on the daylight. The neck relaxes too far, the droop is noticed and a reflex resists in a delayed bobbing motion. Gentling responses are egged on my the weight of satisfaction from each taste of rest; each like a famished whiff of a savory meal that is a poor diet choice. Holding out seems possible, but you find yourself creeping towards giving in as the addiction of sleeps call persists.
+
+~Hail Mary parody~
+Kale berry, full of taste. Make nutritious my smoothie.
+Curse'ed farts now of funk within,
+And blessed is this fruit in my ... Mmmm, cheeseUs!
+Kale berry, smother this broad,
+Stay for our dinners,
+Chow down then cower to the stinky breath. Again.
+
+~Our Father Parody~
+Don't bother! To fart in heaven, Followed by its shame; Thy stinking bum; That smells like dung unearthly foul times eleven. A skunk to say our daily dread; and make sportive our gas-passes as we forgive those who stink ass against us; and feed us not garlic for gestation, but to quiver from its odor. Ahhhgain?!!!
+
+~seducing Mountain runner babes/ice bath~
+I wanna whisk away your feet and run them into tenderness, no blisters or burning sensations, I'll reserve such sensations for your quads muscles - fire and endless lactic fury upon them mastering mountains forcing new routs down their faces. Icing in glacier melt to climax the pain in our calves and knees beyond the runs, teeth gritted fingers curled, breathing begins to feel like crushing forces are all around and thoughts fracture from the intensity demanded just to remain. Time crawls with each glance and there is no escape, it is unbearable - you can't possibly and then without warning as if distracted, the pain is gone NUMB - it's over. we get out and the pain changes its form re-birthed, stabbing from all sides, pumping smoldering lava - heat beyond that of the lactic burns ascending the mountain, soon it fades and all that's left is the glory of the run and the height climbed to, there is no euphoria, there is no cheer, just useless satisfaction, smile is unnecessary - it is blissful go to sleep!
+
+~ode to dead cow near Death Valley~
+Kyle and I just finished watching a marathon of both Willy Wonka movies and decided to try the fizzy lifting drink all night. She couldn't find any so she drink tons and tons of soda and in a last ditch effort to soar, Kyle decided to drink a Red Bull and that's I finally killed her Poor Kyle; determined to fly, but distended distally destined to disintegrate/explode.
+
+~even I~
+Even I would be the fastest man if I had to run from lions and cheetahs all day. No you would be racing through their digestive tract. - Taken from ???
+
+~admiring birds routine in desolation wilderness~
+I spot a ----- bird atop a dead protrusion from a living tree, both share the same shape appropriate for powerful wind. The sun slowly ducks behind a mountain and he calls out in constant song pausing only to listen.
+The sun fully passed the hill, the bird calls on and just when I tire of watching another bird flys to his tree and they fly down into the dusk together.
+You know a better place show me the way</p>
+    <button>Like</button>
+  </article>
+  <article>
+    <h2>The Photos will be posted soon!</h2>
+    <p>Race Photos here!
+When it's cold keep the swim cap on into transition until you are done changing. If the water is really cold, double cap it (2 swim caps!); stretch the first one over your ears, then your goggles, then the other cap, this will also help your goggles from being ripped off.
+Never take GU right before the swim, your energy level will spike and then crash right when you get on the bike.
+Wet suits look exactly the same, especially when you are really tired. (Write your name in yours!) If someone takes yours at a race, it was probably on accident - It will eventually turn up; until then just take advantage of the valuable experience from swimming without one.
+Lick the insides of your goggle lenses, so they don't fog up - this doesn't really work! You can try making an anti-fog from detergent and rubbing alcohol; I usually just leave a little water inside my goggles and it acts like wipers.
+Training: Believe it or not, rock climbing helps your stroke! The tendons in your forearms will become strong and your fingers won't split on the long/cold swims. A couple of days before a race, I practice race starts: I warm up out of water for two min, stand at the edge of a pool/lake and change my breathing pattern to race pace breathing for 30 seconds, then I pretend the race starts and I jump in and swim a 200 just as I would in a race. I sprint out 75, and then pace out with a strong stroke. I focus on controlling my start so that I do not go out too fast and hyperventilate/need to recover.
+Injuries: Rotator Cuff, pinches in the shoulder from leaning on it in the glide phase when muscles are exhausted or not warmed up. Lower back pains from butterfly. Kicking with a broken ankle ... Flip turns too.
+Tri Bike:
+Arrow bars are necessary on lame courses that have vast flat sections. If you need them uphill I will bow to you when you pass me on a climb.
+Watch out! some sun GLASSES FOG UP. I have had perfect vision uphill with glasses, and had them fog up right over the top of a hill = unexpected challenging descent.
+Some athletes put vix vapor rub on their visor, so they can wipe it below their nose during the bike portion. Maybe it helps; I do no do it! Whatever?? Gordon Withers does though!
+Salt tablets are good to tape on your bike for hot/humid climates because you will be sweating out your salts.
+If you are going to ride with your mouth open, then bees might sting the inside of your mouth, you may swallow flies and inhale swarms of gnats ... just accept it.
+I use a water bottle for racing - I only fill up the amount I will need to get me to the aid station (usually 8 oz). Sometimes I will use Gatorade instead of GU.
+Training:
+Injuries: Lower back becoming sore due to the horizontal arrow bar position.
+XC Mountain Bike / DH Mountainbike
+Gloves are a novelty item; they will save your hands in a crash I wear them when I dh, but are not really that necessary in an xc race. garden/work/baseball gloves work well too if you want to go cheap. I do not race with a backpack, tools or tubes - I am light weight (-160lbs), I keep my back tire at 30 psi (for hard tail) and the xc courses in most races are not wild enough to make me flat (if the course is notorious for thorns, then I tape a tube and CO2 tool to the frame). Places that are notorious for being rugged or causing flats warrant a different strategy ... Tubeless is the answer! If you are traveling to a race tubeless is not the answer!!! Deflating your tires will break the seals. SLIME TIRES BLOW, don't buy them! they just make a mess... If the trail has loose/sandy climbs put your back tire on backwards; it will dig in like scoops.Tires - 2.3 on the front, 2.1 on the back for racing always. (unless you are on fire roads, then 2.1/2.1, or on difficult non-race trails, then use bigger tires duh!) Stuff grass in tire if you don't have spare tubes/patches/pump, and still have a really long way to hike out. You can still ride on it if it is packed full of grass. Two ladies, who called themselves the Garcia Sisters told me that. If it is a dumb idea - let me know and I will talk shit.
+When training/ riding for fun, I ride with a backpack (pump, tube, lube, tools), I am not a fan of water in the backpack because of the weight being up too high. I like the pack because it breaks the fall when I crash on my back... endo. 
+QUICK LINKS OR MASTER LINKS ARE A MUST have; tape them on the top of the frame for races.
+DON'T BE AFRAID TO PASS PEOPLE, just let them know that you are coming around them ... maybe the side you intend to pass if you can. If you crash into them, trying to pass, or get crashed into being passed, that sucks, but that is just how it goes. Don't expect people to get out of the way for you, though they are often times they are nice enough to do so. If they are making it hard for you to pass, just go for it, crashes are something to talk about at the very least.
+For learning how to ride on skinny things like ladders, rocks, and bridges …, start by trying to stay on the white lines on the road while you coast down hill, then practice it while on the flat and uphill. After you master that, try riding on the curbs of sidewalks. I recommend that you just try these things every time you casually come across them – riding to the store/school/home/work. Or if you have balls, jut do it!
+Riding with a weight vest/shorts up long climbs.
+My race bike: I bought a flyxii.com hardtail and put xt parts on it, wide handlebars ... I like it! I built a couple other training bikes out of parts from the reno bike project - lots of fun!!!
+Pro-Tec Helmet/RBP Fox Helmet with new pads/Kali DH bucket - I crash all of the time, don't duck low enough for branches and endo way too much to not wear it. I only wear mine uphill because I have to for races, I don't care if you were a helmet or not!
+Toe Clips/Cages/flat pedals - There are clear advantages to clip-less (higher torque, simple jumping, less pedal bite). I DH with clip-less too, but have enjoyed the luxury of flat pedals on courses that are over my head. My Triathlon T2 was the fastest because of cages with running shoes, I will miss that.
+Training: I used to ride with loud music to motivate me to go faster, but I stopped when I found out that you could't race with it. I had to ween myself off it because stopping cold turkey was too hard. Doing some rides at an aggressive pace while listening to Enya really helped.
+Injuries: - the are pretty much part of mountain biking, common ones happen to be collar, wrists, and tail/back bones. 
+Road bike
+LEARN TO DRAFT... Try using it to accelerate and break away from people; use it to slow people down; throw people off ...
+when people stand up their back bike moves back like six inches ... watch out.
+NUMNUTS? it really happens - when the air is freezing/really windy, the seat is funky, or bike shorts are absent ...
+In races ETICUIT IS BULLSHIT forget it! - let people yell all they want, it's not going to make them beat you. If you are trying to be arrow downhill, and your face is right over your stem pot holes will cause the stem to smash your face!
+I got a penerello knockoff from flyxii.com and put on new shamano parts, super light, fast, but it flexes at speeds over 50 - I pretty much fly on it.
+I was using toe clips/cages + running shoes = my T2 was really fast because of it. But now I'm using clip-less 661 mtb shoes
+Training: I used to clip my helmet to my handlebars unless I was doing a gigantic steep hill, but everyone seems to yell at you; I wear it mainly so I am used to it when I race. Riding without a helmet is pretty cool though, it's like smoking.
+Cyclo Cross
+This sport is very choppy! In order to win, you have to be able to surge a million times and be able to smooth out the technical obstacles of the course. Being able to mount and dismount into and out of a run is crucial for the barriers. Bunny hopping barriers is a very valuable skill. This kind of race is notorious for being nasty! - Mud, rain, snow, lumpy grass, awkward turns and flat tires ... Since you are doing laps, you can change out bikes and wheels from the "pit". Physical contact is acceptable as long as its not blatant. More to come on this!
+Training: Just start riding your road bike on everything: xc mtb trails, shortcuts home, in all conditions. Practice running in and off, jumping/bunny hopping.
+Road Run:
+Comming Soon? I only do this when I have to ...
+Training:
+Trail Run:
+DO NOT USE COTTON SOCKS! they do not last. Wearing low rise socks alone is like asking someone to shove all of the pebbles and sticks avaliable on the trail into your socks; if you like savage blisters go for it. Seams on the sides or bottom of the foot are not good - they will rub your feet into blister hell. Bike socks are not usually good for running.
+Lots of milk before running might cause you to crap your pants.
+Only drink the water if you are on long course; it's better just to throw it on yourself. Go ahead you pussy; drink that aid station water when I'm near you and watch what happens; you'll choke on the sip and I will be sprinting by cracking up.
+Surge and recover!
+What I have ran in: Basketball High tops, Nike Racing flats, Asics Track Spikes, Brooks (2x), Asics Gel K (2x), Mizunno, Nike?(sucked), nike?, Addidas mud trail running shoes, Salomons (gtx), Avia stoltz, Xterra somethings, Salomons (xt wings 2), salomon (2x), Salomon mtn running, rebok?, Salomon speedcross (2x) . Every pair of Salomons I have ever ran in seem to get holes where the pinkey toe on my foot touches WTF?
+Training: Try and theme your run weeks, or work off of a rotation; mtns, long distance, race pace/tempo, medium distance with surges.
+Snowshoe Run:
+Professionals cut off all of the straps and mount a racing flat to racing snowshoes.
+When running downhill in squishy or deeper snow, it is easier to run outside of other's tracks ....
+Buy a pair of snowshoes that do not hit the balls of your ankles.
+Poles are unnecessary unless the course is primarily up a very steep mtn.
+Knowing where the groomed and fresh powder sections are in the race is crucial - if you are punching track, you will be doing all of the work.
+Football gators are the best way to keep snow out of your running shoes.
+Snow flings off the back of the snowshoe when you run fast, sometimes over the top of your head. Prepare for that!
+Training: Run in deep snow, power hike hills, train in different kinds of snow shoes. Get used to the snow shoes twisting randomly to either side, if your not you may injure your ankle.
+Recovery:
+CHOCOLATE MILK IS THE SHIT, after races. Horchata is the new thing, it works just as well!
+Tons of gatoraid works too ...
+Someone told me not to eat oranges right after you race -the sugar in them is good, but the lactic acid will prolong lactic acid build up, I dunno about that!
+Training: Experiment with different foods and beverages after difficult workouts and note how they make you feel.
+LIFT WEIGHTS to strengthen ligaments on joint areas that experience repetitive motion during exercise, like biking (Shoulders, knees, lower back/hips, ankles).
+Warm up before lifting weights, and lift weights before running/biking/swimming; after is not as good for some reason.
+A warm up should be called a burn up; you should feel nearly exhausted cardiovascularly (out of breath), and like you are over heating before lifting heavier weights.
+Play games: Accelerate over the top of hills, and pace out down the other side; accelerate around and out of blind turns if someone is chasing you; Accelerate when others go around blind turns if you are chasing them; use the hills as opportunities; when people talk trash just go faster; use common objects to help change pace (telephone poles, driveways, mail boxes, water bars, rocks).
+ 
+Race TRIX: (From the teachings of Bill and Deb Devine)
+Surge over the top of hills to ditch
+Surge around turns when you are out of sight (chased or chasing)
+Surge into hills to catch
+Surge when people spit, cough, scratch their head, drink water, adjust their uniform ...
+If you incorporate scenarios for surging into training, you will SURGE! (I use everything, snow poles, drains, telephone poles, people with cameras, the bigger the list the more opportunities ... )
+
+Verbage for finishing the race:
+Taste it, drive, kick, start shifting gears. (illustrate to the line scenarios)</p>
+    <button>Like</button>
+  </article>
+  <script>
+    $("button").on("click", function() {
+      alert("Clicked!");
+    });
+  </script>
+</body>
